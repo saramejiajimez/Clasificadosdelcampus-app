@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Cobertura
+coverage/
+
+# Secretos y claves (NUNCA versionar)
+.env*
+*.pem
+*.key
+*firebase-adminsdk*.json
+*.keystore
+*.jks
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.log
